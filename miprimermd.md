@@ -22,10 +22,10 @@ Este es mi **primer documento en Markdown**. En este texto hay palabras *en curs
 [Aules](https://portal.edu.gva.es/aules/)
 
 ###Enlace enterno
-[README](../README.md)
+[README](README.md)
 
 ###Imagen
-![GitHub](https://www.google.com/url?sa=i&url=https%3A%2F%2Ffoundations.projectpythia.org%2Ffoundations%2Fgithub%2Fwhat-is-github%2F&psig=AOvVaw1R081S46bOhP6bbaohcGvH&ust=1760986743746000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCNjKif34sJADFQAAAAAdAAAAABAV)
+![An old rock in the desert](/assets/images/shiprock.jpg "Shiprock, New Mexico by Beau Rogers")](https://www.flickr.com/photos/beaurogers/31833779864/in/photolist-Qv3rFw-34mt9F-a9Cmfy-5Ha3Zi-9msKdv-o3hgjr-hWpUte-4WMsJ1-KUQ8N-deshUb-vssBD-6CQci6-8AFCiD-zsJWT-nNfsgB-dPDwZJ-bn9JGn-5HtSXY-6CUhAL-a4UTXB-ugPum-KUPSo-fBLNm-6CUmpy-4WMsc9-8a7D3T-83KJev-6CQ2bK-nNusHJ-a78rQH-nw3NvT-7aq2qf-8wwBso-3nNceh-ugSKP-4mh4kh-bbeeqH-a7biME-q3PtTf-brFpgb-cg38zw-bXMZc-nJPELD-f58Lmo-bXMYG-bz8AAi-bxNtNT-bXMYi-bXMY6-bXMYv) 
 
 ###Tabla
 |Nombre|Rol|Lenguaje favorito|
